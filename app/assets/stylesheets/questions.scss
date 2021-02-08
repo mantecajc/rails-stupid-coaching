@@ -29,9 +29,13 @@ input {
 }
 
 .question-box {
-
+  padding: 15px 15px;
+  border-left: solid 10px #DDDDDD;
+  margin-bottom: 20px;
 }
 
 .answer-box {
-	
+  background-color: #FEFFE1;
+  padding: 15px 15px;
+  border-left: solid 10px #DDDDDD;
 }
