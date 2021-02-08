@@ -1,0 +1,37 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+body {
+  font-family: 'Oswald', sans-serif;
+  margin: 20px 20px;
+}
+
+input {
+  padding: 16px 24px;
+
+}
+
+.placeholder {
+  border-radius: 8px;
+  border: 1px solid grey;
+  padding-left: 12px;
+}
+
+.button {
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #337AB7;
+  border-radius: 12px;
+}
+
+.question-box {
+
+}
+
+.answer-box {
+	
+}
